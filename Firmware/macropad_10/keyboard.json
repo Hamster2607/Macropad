@@ -1,0 +1,38 @@
+{
+    "keyboard_name": "MarcoPad",
+    "manufacturer": "pelegrini.ca",
+    "maintainer": "me",
+    "processor": "RP2040",
+    "bootloader": "rp2040",
+        "matrix_size": {
+        "rows": 2,
+        "cols": 3
+    },
+    "features": {
+        "bootmagic": true,
+        "encoder": true,
+        "encoder_map": true,
+        "mousekey": true
+    },
+    "direct_pins": [
+        ["GP2", "GP1", "GP0"],
+        ["GP28", "GP4", "GP3"]
+    ],
+    "encoder": {
+        "rotary": [
+            { "pin_a": "GP26", "pin_b": "GP27" }
+        ]
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"matrix": [0, 0], "x": 0, "y": 0, "label": "SW1"},
+                {"matrix": [0, 1], "x": 1, "y": 0, "label": "SW2"},
+                {"matrix": [0, 2], "x": 2, "y": 0, "label": "SW6"},
+                {"matrix": [1, 0], "x": 0, "y": 1, "label": "S1 (Encoder)"},
+                {"matrix": [1, 1], "x": 1, "y": 1, "label": "SW4"},
+                {"matrix": [1, 2], "x": 2, "y": 1, "label": "SW5"}
+            ]
+        }
+    }
+}
