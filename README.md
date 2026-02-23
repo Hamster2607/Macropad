@@ -39,6 +39,12 @@ And this is the footprint
 The case will be held tight by 4 M3x16 mm screws and it can be fuly 3D printed
 ![Case](Photos/case+top.png)
 
+## Full assembly(couldn't put switches in the model, get a hold of your imagination)
+
+![Assembly](Photos/PCB_in_OnShape.png)
+
+![Assembly](Photos/PCB_side.png)
+
 
 
 
