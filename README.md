@@ -14,10 +14,9 @@ This Macropad has 6 keys for media control and microphone with a rotary encoder 
  Seeed XIAO RP2040      1       | $6.50        | $6.50   Main MCU                      
  Switches with keycaps  5       | $0.50        | $2.50   TS-style, direct pin          
  Rotary encoder w/button  1     | $1.20        | $1.20   3-pin encoder                 
- OLED display 0.91"     1       | $3.00        | $3.00   4-pin standard display
  3D-printed case        1 set   | $2.00        | $2.00   PLA, ~50 g 
  
-Total : ~15.20 USD
+Total : ~12.20 USD
 
 ## Layout
 
