@@ -487,10 +487,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../production/",
+      "plot": "/home/vlad/Documents/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../CAD/Marcopad.step",
+      "step": "../../../Marcopad.step",
       "svg": "",
       "vrml": ""
     },
